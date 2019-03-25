@@ -1,1 +1,1 @@
-##Simple Counter app with react##
+## Simple Counter app with react
